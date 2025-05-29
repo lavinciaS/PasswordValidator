@@ -1,1 +1,1 @@
-# PasswordValidator
+A Java application that checks whether a user’s password meets security standards. It validates length (8–10 characters), uppercase/lowercase letters, at least 2 special characters, and any digits. Built as a practice project to strengthen programming and cybersecurity logic
