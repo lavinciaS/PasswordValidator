@@ -65,3 +65,32 @@ _Add a screenshot or short clip of your working program here._
 
 ### 📂 File Structure
 
+
+---
+
+### 📈 Skills Practiced
+- Java Programming
+- Input Validation & Feedback
+- Cybersecurity Best Practices
+- Problem-Solving & Debugging
+- Git & GitHub Workflow
+
+---
+
+### 💡 Future Improvements
+- Integrate common password blacklist
+- Add GUI version with JavaFX
+- Track the number of failed attempts
+- Hash and store password securely
+
+---
+
+### 👩🏽‍💻 Author
+**Lavincia S**  
+Cybersecurity Student | Secure Coding Enthusiast  
+
+
+---
+
+
+
